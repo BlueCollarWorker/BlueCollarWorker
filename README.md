@@ -5,5 +5,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Hi, I’m @BlueCollarWorker. I am interested in AI, automation of processes, ETLs, and microservices. 
-I am proficient in python and currently learning golang.
-I mostly develop on Windows but I want to learn development on Linux using Docker containers.
+I am proficient in python and julia and bit of this and that.
+I mostly develop on Windows but I am interested in devloping in Linux and Docker containers.
